@@ -1,3 +1,4 @@
+![logo](https://github.com/sapna008/sapna008/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sapna Sarkar</h1>
 <h3 align="center">Aspiring Full-Stack Developer from India</h3>
 
